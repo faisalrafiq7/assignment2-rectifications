@@ -412,7 +412,7 @@ div.middle-down img{
 	padding: 40px;
 }
 div.dark{
-	background: url("pics/bottom.jpg") center; 
+	background: url("pics/bottom.jpg") center center; 
 	
 	/* background-size: 100%; */
 	padding: 50px;
